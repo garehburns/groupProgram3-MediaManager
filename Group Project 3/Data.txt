@@ -1,0 +1,19 @@
+			
+b	The Great Gatsby	F. Scott Fitzgerald	1925
+b	The Canterbury Tales	Geoffrey Chaucer	1400
+b	To Kill a Mockingbird	Harper Lee	1960
+b	The Hobbit	J.R.R. Tolkien	1937
+m	Night Visions	Imagine Dragons	2012
+m	Ys	Joanna Newsome	2006
+m	Hair of the Dog	Nazareth	1975
+m	Seal	Seal	1991
+m	Seal	Seal	1994
+m	Weezer	Weezer	1994
+m	Weezer	Weezer	2001
+m	Weezer	Weezer	2008
+m	Weezer	Weezer	2016
+v	Arsenic and Old Lace	Frank Capra	1944
+v	Metropolis	Fritz Lang	1927
+v	Godzilla	Gareth Edwards	2014
+v	Godzilla	Ishiro Honda	1954
+v	Godzilla	Roland	1998
